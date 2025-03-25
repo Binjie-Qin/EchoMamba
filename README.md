@@ -1,4 +1,6 @@
 # Echomamba
+EchoMamba: Echocardiogram Video Regression with Attentional State Space Model, this manuscript is under review for possible publication on IEEE Transactions on Circuits and Systems for Video Technology
+
 
 ## Environment
 
